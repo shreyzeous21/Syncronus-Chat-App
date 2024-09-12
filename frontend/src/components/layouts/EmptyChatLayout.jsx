@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const EmptyChatLayout = () => {
   return (
     <div className="flex-1 md:bg-template md:flex flex-col justify-center items-center hidden duration-1000 transition-all">
-      <Link to={"https://github.com/anwarhakim31"} target="_blank">
+      <Link to={"https://github.com/shreyzeous21"} target="_blank">
         <Lottie2
           isClickToPauseDisabled={true}
           height={200}
@@ -24,10 +24,10 @@ const EmptyChatLayout = () => {
           Created by{" "}
           <Link
             className="text-purple-500 underline"
-            to={"https://github.com/anwarhakim31"}
+            to={"https://github.com/shreyzeous21"}
             target="_blank"
           >
-            Anwar hakim
+            Shrey Sadhukhan
           </Link>
         </small>
       </div>
